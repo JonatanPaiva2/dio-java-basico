@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: Diagram de UML - iPhone
 Aluno: Jônatan de Castro Santos Paiva
@@ -21,3 +22,4 @@ classDiagram
         +adicionarNovaAba()
         +atualizarPagina()
     }
+```
